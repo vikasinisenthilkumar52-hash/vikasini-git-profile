@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="./profile-banner.png" width="100%" alt="Vikasini Senthilkumar - AI & Data Analytics"/>
+  <img src="./banner.png" width="100%" alt="Vikasini Senthilkumar - AI & Data Analytics"/>
 </p>
 
 <br>
