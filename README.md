@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:0F1B33,100:1D4ED8&text=VIKASINI%20SENTHILKUMAR&fontColor=FFFFFF&fontSize=34&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=56&descSize=14&animation=fadeIn" />
+<img width="100%" src="banner.png" alt="Vikasini Senthilkumar — AI & Data Science Engineer" />
 
 <br>
 
