@@ -4,13 +4,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:0F1B33,100:1D4ED8&text=VIKASINI%20SENTHILKUMAR&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%20|%20%20Data%20Analyst%20%20|%20%20ML%20%2F%20NLP&descAlignY=58&descSize=15&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:0F1B33,100:1D4ED8&text=VIKASINI%20SENTHILKUMAR&fontColor=FFFFFF&fontSize=34&fontAlignY=36&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=56&descSize=14&animation=fadeIn" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Turning+Raw+Data+into+Decisions;Building+with+Python+%26+SQL;Exploring+ML+%2F+NLP+%2F+Generative+AI;Designing+Dashboards+in+Power+BI;Final-Year+AI+%26+DS+Student" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=data_pipeline.clean().analyze().visualize();model+%3D+train(NLP+%7C+ML+%7C+GenAI);dashboard.deploy(PowerBI);status%3A+final_year+%40+AI%26DS" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/vikasinisenthilkumar52-hash"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vikasini-s-aa48932a4/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -25,47 +25,57 @@
 <br>
 
 <!-- ========================================================= -->
-<!--                    ABOUT                                   -->
+<!--                    WHOAMI                                  -->
 <!-- ========================================================= -->
 
-## 🧬 About Me
-
-```yaml
-role: Final-Year B.Tech Student — Artificial Intelligence & Data Science
-cgpa: 8.32
-graduating: 2027
-based_in: Namakkal, Tamil Nadu, India
-focus: Data Analytics · Machine Learning · NLP · Business Intelligence
-currently: Building a project & internship portfolio in data-driven AI
+```bash
+$ whoami
 ```
 
-I work at the intersection of **data analytics and applied AI** — cleaning messy datasets, finding the story inside them, and packaging that story into dashboards, models, and reports that are actually useful to a business.
+```yaml
+name:         Vikasini Senthilkumar (Vikuu)
+role:         Final-Year B.Tech — Artificial Intelligence & Data Science
+institution:  PGP College of Engineering & Technology
+cgpa:         8.32
+graduating:   2027
+location:     Namakkal, Tamil Nadu, IN
+stack:        Python · SQL · Pandas · Power BI · Scikit-learn · NLP
+status:       [ACTIVE] building data + AI portfolio
+```
 
-<table>
-<tr>
-<td width="33%" valign="top">
+---
 
-**📊 Data**
-Python · SQL · Pandas
-EDA · Statistical Analysis
+<!-- ========================================================= -->
+<!--                    SKILL MATRIX                            -->
+<!-- ========================================================= -->
 
-</td>
-<td width="33%" valign="top">
+## 📡 Skill Matrix
 
-**🤖 AI / ML**
-Machine Learning · NLP
-Generative AI
+```text
+Python              ████████████████████░░░░  80%
+SQL                  ███████████████░░░░░░░░░  60%
+Data Analysis (EDA)  ██████████████████░░░░░░  75%
+Pandas / NumPy       ████████████████████░░░░  80%
+Power BI             ███████████████████░░░░░  78%
+Machine Learning     ██████████████░░░░░░░░░░  58%
+NLP                  █████████████████░░░░░░░  68%
+Generative AI        ██████████████░░░░░░░░░░  55%
+```
 
-</td>
-<td width="33%" valign="top">
+<details>
+<summary><b>⚙️ Full toolchain (click to expand)</b></summary>
 
-**📈 BI**
-Power BI · Dashboards
-Data Storytelling
+| Layer | Tools |
+|---|---|
+| **Language** | Python, SQL |
+| **Data Wrangling** | Pandas, NumPy |
+| **Modeling** | Scikit-learn, NLP (VADER) |
+| **Visualization** | Power BI, Matplotlib, Seaborn |
+| **Scraping / Ingestion** | Requests, BeautifulSoup |
+| **Environment** | Google Colab, VS Code |
+| **Version Control** | Git, GitHub |
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -73,43 +83,18 @@ Data Storytelling
 <!--                    EXPERIENCE                              -->
 <!-- ========================================================= -->
 
-## 💼 Experience
+## 💼 Experience Log
 
-| Organization | Role | Focus |
-|---|---|---|
-| **PlutoAcademy** | Data Analytics Intern | Applied data analysis & reporting |
-| **IBM SkillsBuild** (AICTE / BharatCares) | Intern | Industry-aligned skilling program |
-| **CodeAlpha** | Data Analytics Intern | Completed all 4 assigned tasks — EDA, sentiment analysis, web scraping |
+```text
+[2024–2025]  PlutoAcademy           → Data Analytics Intern
+             └─ Applied EDA & reporting on real datasets
 
----
+[2024–2025]  IBM SkillsBuild        → Intern (AICTE / BharatCares)
+             └─ Industry-aligned upskilling program
 
-<!-- ========================================================= -->
-<!--                    TECH STACK                              -->
-<!-- ========================================================= -->
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Languages & Data**
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-
-**Analytics & ML**
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge"/>
-
-**Visualization**
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-
-</div>
+[2024–2025]  CodeAlpha              → Data Analytics Intern
+             └─ 4/4 tasks completed: EDA · Sentiment Analysis · Web Scraping
+```
 
 ---
 
@@ -123,66 +108,72 @@ Data Storytelling
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Sales Analytics
-Analyzed the Olist Brazilian E-Commerce dataset — sales trends, category performance, customer and regional insights.
-
-`Python` `Pandas` `Matplotlib` `Power BI`
-
-[**View Repo →**](https://github.com/vikasinisenthilkumar52-hash/Ecommerce-Sales-Analysis)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Student Performance Analysis
-Explored how parental education, test preparation, and gender correlate with subject performance.
-
-`Python` `Pandas` `Matplotlib` `Seaborn`
-
-[**View Repo →**](https://github.com/vikasinisenthilkumar52-hash/student-performance-analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏪 Superstore EDA
-End-to-end exploratory analysis of sales, profit, discounts, categories, and regional performance.
-
-`Python` `Pandas` `Seaborn` `SciPy` `SQL`
-
-[**View Repo →**](https://github.com/vikasinisenthilkumar52-hash/CodeAlpha_EDA)
+### 🛒 `ecommerce-sales-analytics`
+```yaml
+dataset:  Olist Brazilian E-Commerce
+task:     Sales / category / regional analysis
+stack:    [Python, Pandas, Matplotlib, Power BI]
+```
+[**→ Repository**](https://github.com/vikasinisenthilkumar52-hash/Ecommerce-Sales-Analysis)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Sentiment Analysis
-Classified customer sentiment on Amazon Fine Food Reviews using VADER.
-
-`Python` `NLP` `VADER` `Pandas`
-
-[**View Repo →**](https://github.com/vikasinisenthilkumar52-hash/CodeAlpha_SentimentAnalysis)
+### 🎓 `student-performance-analysis`
+```yaml
+dataset:  Student performance records
+task:     Correlation of education/prep vs scores
+stack:    [Python, Pandas, Matplotlib, Seaborn]
+```
+[**→ Repository**](https://github.com/vikasinisenthilkumar52-hash/student-performance-analysis)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Web Scraping Pipeline
-Collected structured book data (titles, prices, ratings, availability) from a live site.
-
-`Python` `Requests` `BeautifulSoup` `Pandas`
-
-[**View Repo →**](https://github.com/vikasinisenthilkumar52-hash/CodeAlpha_WebScraping)
+### 🏪 `codealpha-eda-superstore`
+```yaml
+dataset:  Superstore sales
+task:     Profit / discount / regional EDA
+stack:    [Python, Pandas, Seaborn, SciPy, SQL]
+```
+[**→ Repository**](https://github.com/vikasinisenthilkumar52-hash/CodeAlpha_EDA)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 MindPulseAI
-An AI-focused exploration into building practical, intelligent, data-driven applications.
+### 💬 `sentiment-analysis-nlp`
+```yaml
+dataset:  Amazon Fine Food Reviews
+task:     Sentiment classification (VADER)
+stack:    [Python, NLP, VADER, Pandas]
+```
+[**→ Repository**](https://github.com/vikasinisenthilkumar52-hash/CodeAlpha_SentimentAnalysis)
 
-`Python` `AI` `Data`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[**View Repo →**](https://github.com/vikasinisenthilkumar52-hash/MindPulseAI)
+### 📚 `web-scraping-pipeline`
+```yaml
+target:   Book catalog site
+task:     Extract title/price/rating/availability
+stack:    [Python, Requests, BeautifulSoup, Pandas]
+```
+[**→ Repository**](https://github.com/vikasinisenthilkumar52-hash/CodeAlpha_WebScraping)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 `mindpulseai`
+```yaml
+type:     AI application prototype
+task:     Practical intelligent data-driven app
+stack:    [Python, AI, Data]
+```
+[**→ Repository**](https://github.com/vikasinisenthilkumar52-hash/MindPulseAI)
 
 </td>
 </tr>
@@ -197,24 +188,36 @@ An AI-focused exploration into building practical, intelligent, data-driven appl
 ---
 
 <!-- ========================================================= -->
-<!--                    LEARNING ROADMAP                        -->
+<!--                    ROADMAP                                 -->
 <!-- ========================================================= -->
 
-## 🌱 Learning Roadmap
+## 🧭 Build Roadmap
 
+```mermaid
+graph LR
+    A[Python] --> B[SQL]
+    B --> C[Data Analysis]
+    C --> D[Power BI]
+    D --> E[Machine Learning]
+    E --> F[Generative AI]
+    style A fill:#1D4ED8,color:#fff
+    style B fill:#1D4ED8,color:#fff
+    style C fill:#1D4ED8,color:#fff
+    style D fill:#1D4ED8,color:#fff
+    style E fill:#111827,color:#fff,stroke:#58A6FF
+    style F fill:#111827,color:#fff,stroke:#58A6FF
 ```
-Python → SQL → Data Analysis → Power BI → Machine Learning → Generative AI
-  ✓        ✓         ✓             ✓            ▸ in progress    ▸ exploring
-```
 
-**2026 Goals**
-
-| Data | AI |
+| Track | Status |
 |---|---|
-| ✅ Build EDA projects | ✅ Explore NLP |
-| ✅ Work with real datasets | ✅ Explore Generative AI |
-| ✅ Create Power BI dashboards | ⬜ Build more AI projects |
-| ⬜ Strengthen advanced SQL | ⬜ Strengthen Machine Learning |
+| EDA projects | ✅ Done |
+| Real-world datasets | ✅ Done |
+| Power BI dashboards | ✅ Done |
+| Advanced SQL | 🔄 In progress |
+| NLP | ✅ Done |
+| Generative AI | 🔄 Exploring |
+| More AI projects | ⬜ Planned |
+| Core Machine Learning | 🔄 Strengthening |
 
 ---
 
@@ -247,17 +250,17 @@ Python → SQL → Data Analysis → Power BI → Machine Learning → Generativ
 
 <div align="center">
 
-## 🤝 Let's Connect
+## 📡 Connect
 
-Open to internships, collaborations, and data/AI opportunities.
+```bash
+$ contact --open-to internships,collaboration,data-ai-roles
+```
 
 <a href="https://www.linkedin.com/in/vikasini-s-aa48932a4/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:vikasinisenthilkumar52@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/vikasinisenthilkumar52-hash"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
-
-### `Learn · Build · Analyze · Grow`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"/>
 
